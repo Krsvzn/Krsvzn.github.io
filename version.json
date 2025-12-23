@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "versionCode": 1,
+    "releaseDate": "December 2024",
+    "downloadUrl": "releases/gate-icon-latest.apk",
+    "releaseNotes": [
+        "Initial release",
+        "Instant visitor notifications",
+        "QR code pre-approval",
+        "Visit history tracking"
+    ],
+    "minAndroidVersion": "Android 6.0+"
+}
